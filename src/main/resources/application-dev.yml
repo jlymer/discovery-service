@@ -1,0 +1,6 @@
+# To run dev profile add to the commandline -Dspring.profiles.active=dev
+
+logging:
+  level:
+    root: INFO
+  file: c:/temp/application.log
